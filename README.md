@@ -1,1 +1,3 @@
-# ppb-mini-project
+# collection_tracker
+
+A new Flutter project.
